@@ -1,6 +1,3 @@
-// interactive_scanner.cpp
-// Minimal interactive TCP port scanner (prompts if no args).
-// Build: g++ -std=c++11 interactive_scanner.cpp -o interactive_scanner
 
 #include <arpa/inet.h>
 #include <netdb.h>
